@@ -1,0 +1,3 @@
+# app-ads.txt für AdMob, gilt für alle Apps der Game Factory. Liegt unter https://flintstone93.github.io/app-ads.txt;
+# im Store-Eintrag als Entwickler-Website https://flintstone93.github.io angeben.
+google.com, pub-6046867760330799, DIRECT, f08c47fec0942fa0
